@@ -1,8 +1,8 @@
 # Halo Semua! 
 
-Perkenalkan nama saya **Subqi Anjaya**.\
+Perkenalkan nama saya **Subqi Anjaya**.
 
-Saya seorang **mahasiswa** Universitas Gadjah Mada yang sedang mengikuti Studi Independen Bangkit Academy yang bermitra di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **mahasiswa** Universitas Gadjah Mada yang sedang mengikuti Studi Independen Bangkit Academy yang bermitra di [Dicoding](https://www.dicoding.com/).
 
 Saya antusias dan tertarik belajar mengenai Machine Learning
 
